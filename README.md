@@ -7,3 +7,11 @@ This a C program that allows the user to  define the time delay for an activity/
 To demonstrate the working random numbers are being printed at ergular intervals of time (providedby the user) and if user presses any key other than ESC the delay function get interuppted and starts again.
 
 ![output screenshot](delay.png)
+
+# memorymap.c
+
+This file depicts the consumption of memory due to various variables and functionalities proposed in the program.
+
+![memorymap] (memorymap.png)
+![memorymap] (memorymap2.png)
+![memorymap] (memorymap3.png)
