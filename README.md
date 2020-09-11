@@ -13,5 +13,5 @@ To demonstrate the working random numbers are being printed at ergular intervals
 This file depicts the consumption of memory due to various variables and functionalities proposed in the program.
 
 ![memorymap] (memorysize.png)
-![memorymap] (memorysize2.png)
-![memorymap] (memorysize3.png)
+![memorymap2] (memorysize2.png)
+![memorymap3] (memorysize3.png)
