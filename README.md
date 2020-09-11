@@ -15,6 +15,7 @@ This file depicts the consumption of memory due to various variables and functio
 compile and run the various code segments provided in the file separately using following commands:
 
 compile: gcc memorymap.c -o memorymap
+
 run:     size memorymap
 
 ![output screen shot memorymap](memorysize.png)
