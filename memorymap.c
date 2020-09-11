@@ -25,7 +25,7 @@ int global; // Uninitialized variable stored in bss
 int main(void) 
 { 
     static int i = 100; /* Initialized static variable stored in DS*/
-    return 0; 
+  //  return 0; 
 //} 
 
 #include <stdio.h> 
